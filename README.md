@@ -44,7 +44,7 @@ $ python3 play.py
 
 ## Credit
 
-Reference [project](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/12_Proximal_Policy_Optimization)
+Reference [Project](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/12_Proximal_Policy_Optimization)
 
 
 # PPO
